@@ -1,0 +1,40 @@
+Request:
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sol="http://www.solventa.cl">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <sol:busquedaPorRut>
+         <rutCliente>10097284</rutCliente>
+      </sol:busquedaPorRut>
+   </soapenv:Body>
+</soapenv:Envelope>
+edaPorRut>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+dy>
+</soapenv:Envelope>
+
+OjEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRh
+dGVkMRUwEwYDVQQDDAwqLmRpZmFybWEuY2wwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDlgreqip5u2P62n6zbhUUg5sN7ndikc2ajUJ5uJO7Q7zGOoUru
+f2KCwUlwhD5cCF70clwfof754Cn9hBMMKWf4o8G6IG2PJA/Oeus1tRN0PhdYojHr
+hTbR5q1l/bKRUX2QxschLnE0BqhvZZYLI/3hFxHcG+sYu8ZWj5hw8CVq/TijrMq5
+n9TyIuvg81zzn+ia6wKT+IrHzb72BC1IJWDDdqmugEUxt0OeCEV7CTeZrjToKYdv
+5Mfypz0pUAuwXEHTIoTpiM68esc/ERJn5L0/eLHEIdI6IwvAd+Km9xd7wqBeaXAx
+Plj7PNqIU80eOBI1UdRmh0IkIKENhShynlKtAgMBAAGjggG2MIIBsjAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8E
+BAMCBaAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5nb2RhZGR5LmNvbS9n
+ZGlnMnMxLTgxMi5jcmwwXQYDVR0gBFYwVDBIBgtghkgBhv1tAQcXATA5MDcGCCsG
+AQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRv
+cnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmlj
+YXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAW
+gBRAwr0njsw0gzCiM9f7bLPwtCyAzjAjBgNVHREEHDAaggwqLmRpZmFybWEuY2yC
+CmRpZmFybWEuY2wwHQYDVR0OBBYEFC4BTkjnSkWi37BC+tzcs+f8rzdpMA0GCSqG
+SIb3DQEBCwUAA4IBAQAqwLmxRKeOiZgdTfmjGFxtyXTYr3uL5YY4rYuzWgIMHLj2
+jsoWCzGILv8pgQO98vwz5OB7dnNUW0mmQFHiTkJW53CsNjhL+WTo2Wcudk5u8v4H
+mNQ+nJLkayyYTdawrp8bOLwcsvwDHCjFnWZgfADZJtqrJvOCv/UhTKvC+ijfdvKS
++atkFCd/Ddp56U0Q9jvRujvJ0Ohda9OtsyHYqNNYZifd+5wCDbIVNJHURTdDh3Q4
+7Ayy4kfUXNzTUz9WQpaviDbUqwX3jH8cQmX04BoD51m5w57ymSO5UVjl4sIELyvI
+o7RmNDFEy/LN+l/j2/QAdSTzfcidAmk6LqDz3TZ/
+-----END CERTIFICATE-----

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "setasign/fpdi-protection": "^2.0",
+        "tecnickcom/tcpdf": "^6.3",
+        "setasign/fpdf": "^1.8"
+    }
+}

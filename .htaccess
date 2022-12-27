@@ -1,0 +1,26 @@
+<IfModule mod_env.c>
+    SetEnv CI_ENV development
+</IfModule>
+
+<IfModule mod_headers.c>
+Header set Strict-Transport-Security "max-age=10886400; includeSubDomains; preload"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    Options +FollowSymLinks
+    RewriteEngine on
+    RewriteCond %{SERVER_PORT} 80
+    RewriteRule (.*) https://%{HTTP_HOST}$1 [R,L]
+
+    RewriteRule ^([a-z0-9_-]+)\.html$ index.php/page/$1 [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond $1 !^(index\.php|asset|robots\.txt)
+    RewriteRule ^(.*)$ index.html?/$1 [QSA,L]
+    ErrorDocument 500 /errors/500.html
+    ErrorDocument 403 /errors/403.html
+    ErrorDocument 400 /errors/400.html
+    ErrorDocument 404 /errors/404.html
+</IfModule>
+
+
